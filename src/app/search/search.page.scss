@@ -1,0 +1,33 @@
+.icon {
+  font-size: 24px; /* Contoh: ukuran font */
+  margin-right: 20px; /* Contoh: jarak antara ikon dan teks */
+}
+  
+.search {
+    /* Tambahkan gaya teks "search" sesuai keinginan Anda */
+  font-size: 40px; /* Contoh: ukuran font */
+  font-weight: bold; /* Contoh: tebal teks */
+  text-align: center; /* Memastikan teks di tengah */
+  top: 15px;
+}
+  
+.nama{
+    padding-top: 20px;  
+}
+
+.ava{
+  width: 40px;
+  height: 40px;
+}
+
+.nama-col{
+  display: flex;
+  top: 10px;
+  left: 5%;
+}
+
+.nama-colo ion-button{
+  text-transform: none;
+  width: 95%;
+}
+  
